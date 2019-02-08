@@ -7,6 +7,12 @@ Changelog for package realsense2_camera
 * [fix] null depth frame. `#4 <https://github.com/plusone-robotics/realsense/issues/4>`_
 * Contributors: Isaac I.Y. Saito, Joshua Curtis, Shaun Edwards
 
+100.0.8 (2019-02-07)
+--------------------
+* [capability] Ir-RGB integration  `#12 <https://github.com/plusone-robotics/realsense/issues/12>`_
+* Filters for Plus One Robotics. `#3 <https://github.com/plusone-robotics/realsense/issues/3>`_
+* Contributors: Isaac I.Y. Saito, Joshua Curtis, Shaun Edwards
+
 2.0.4 (2018-08-29)
 ------------------
 * Merge pull request `#452 <https://github.com/plusone-robotics/realsense/issues/452>`_ from doronhi/development
