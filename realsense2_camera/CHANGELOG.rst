@@ -2,6 +2,12 @@
 Changelog for package realsense2_camera
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* [maintenance] Merging 100.0.8 and 100.0.9
+* [fix] Restart failure. `plusone-robotics/realsense#16 <https://github.com/plusone-robotics/realsense/pull/16>`_ (cherry-pick of https://github.com/intel-ros/realsense/pull/455).
+* Contributors: Isaac I.Y. Saito, Jamie Cho, Jonathan Lwowski, Itay Carpis
+
 100.0.9 (2019-02-07)
 --------------------
 * [fix] null depth frame. `#4 <https://github.com/plusone-robotics/realsense/issues/4>`_
